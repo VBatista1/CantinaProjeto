@@ -1,0 +1,9 @@
+c:\users\vihck\documents\visual studio 2017\Projects\Cantina\Cantina\bin\Debug\netcoreapp1.1\Cantina.deps.json
+c:\users\vihck\documents\visual studio 2017\Projects\Cantina\Cantina\bin\Debug\netcoreapp1.1\Cantina.runtimeconfig.json
+c:\users\vihck\documents\visual studio 2017\Projects\Cantina\Cantina\bin\Debug\netcoreapp1.1\Cantina.runtimeconfig.dev.json
+c:\users\vihck\documents\visual studio 2017\Projects\Cantina\Cantina\bin\Debug\netcoreapp1.1\Cantina.dll
+c:\users\vihck\documents\visual studio 2017\Projects\Cantina\Cantina\bin\Debug\netcoreapp1.1\Cantina.pdb
+c:\users\vihck\documents\visual studio 2017\Projects\Cantina\Cantina\obj\Debug\netcoreapp1.1\Cantina.csprojResolveAssemblyReference.cache
+c:\users\vihck\documents\visual studio 2017\Projects\Cantina\Cantina\obj\Debug\netcoreapp1.1\Cantina.AssemblyInfo.cs
+c:\users\vihck\documents\visual studio 2017\Projects\Cantina\Cantina\obj\Debug\netcoreapp1.1\Cantina.dll
+c:\users\vihck\documents\visual studio 2017\Projects\Cantina\Cantina\obj\Debug\netcoreapp1.1\Cantina.pdb
