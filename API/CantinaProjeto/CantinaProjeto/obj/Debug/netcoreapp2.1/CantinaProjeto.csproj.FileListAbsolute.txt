@@ -1,0 +1,14 @@
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\obj\Debug\netcoreapp2.1\CantinaProjeto.csprojAssemblyReference.cache
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\obj\Debug\netcoreapp2.1\CantinaProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\obj\Debug\netcoreapp2.1\CantinaProjeto.RazorAssemblyInfo.cache
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\obj\Debug\netcoreapp2.1\CantinaProjeto.RazorAssemblyInfo.cs
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\obj\Debug\netcoreapp2.1\CantinaProjeto.AssemblyInfoInputs.cache
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\obj\Debug\netcoreapp2.1\CantinaProjeto.AssemblyInfo.cs
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\bin\Debug\netcoreapp2.1\CantinaProjeto.deps.json
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\bin\Debug\netcoreapp2.1\CantinaProjeto.runtimeconfig.json
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\bin\Debug\netcoreapp2.1\CantinaProjeto.runtimeconfig.dev.json
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\bin\Debug\netcoreapp2.1\CantinaProjeto.dll
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\bin\Debug\netcoreapp2.1\CantinaProjeto.pdb
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\obj\Debug\netcoreapp2.1\CantinaProjeto.RazorTargetAssemblyInfo.cache
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\obj\Debug\netcoreapp2.1\CantinaProjeto.dll
+C:\Users\Vihck\Documents\Visual Studio 2017\Projects\CantinaProjeto\CantinaProjeto\obj\Debug\netcoreapp2.1\CantinaProjeto.pdb
