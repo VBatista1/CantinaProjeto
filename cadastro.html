@@ -8,6 +8,8 @@
 
     <link rel="shortcut icon" type="image/png" href="images/facenslogo.png"/>
 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
     <!-- Font Icon -->
     <link rel="stylesheet" href="fonts/material-icon/css/material-design-iconic-font.min.css">
 
@@ -15,6 +17,26 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+
+    <!-- Modal -->
+    <div class="modal fade" id="successModal" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="TituloModalCentralizado">Cadastro</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+            <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            Cadastrado com sucesso!
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-primary">Ok</button>
+        </div>
+        </div>
+    </div>
+    </div>
 
     <div class="main">
         <!-- Sign up form -->
@@ -45,7 +67,7 @@
                                 <label for="agree-term" class="label-agree-term"><span><span></span></span>Eu concordo com todos os  <a href="#" class="term-service">Termos de serviço</a></label>
                             </div>
                             <div class="form-group form-button">
-                                <input type="submit" name="signup" id="signup" class="form-submit" value="Cadastrar"/>
+                                <input type="button" name="signup" id="cadastrar" class="form-submit" value="Cadastrar"/>
                             </div>
                         </form>
                     </div>
@@ -61,6 +83,8 @@
 
     <!-- JS -->
     <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <script src="js/main.js"></script>
 </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 </html>
